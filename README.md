@@ -1,41 +1,81 @@
-<h2 align="center">Oi, tudo bem👋?! <br><br>Me chamo Domingos, sou um estudante de desenvolvimento Web júnior da cidade de Fortaleza/CE.</h2>
+# Domingos Muratori Neto
 
-###
+> Desenvolvedor Web Júnior · Fortaleza, CE 🇧🇷
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DomingosMt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DomingosMt&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 👋 Sobre mim
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZyMzJ3bHlvaWJtZmszOXM1dnF3d2V4emp4cGxrOTE4cjI2ZHgydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+Olá! Sou **Domingos**, estudante de desenvolvimento Web com foco no front-end. Tenho me dedicado a construir interfaces funcionais, responsivas e bem estruturadas, sempre buscando evolução técnica consistente.
 
-###
+Atualmente estudo na **Digital College** (Formação Full Stack) e aplico meus conhecimentos em projetos práticos que envolvem HTML5, CSS3, JavaScript e ferramentas modernas como TailwindCSS e Figma.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
+📍 Fortaleza, CE &nbsp;|&nbsp; 📧 [domingosmuratori@outlook.com](mailto:domingosmuratori@outlook.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/domingos-muratori-neto-9487ab19b) &nbsp;|&nbsp; 💬 [Discord](https://discord.com/users/domingos0076)
 
-###
+---
 
-<div align="left">
-  <a href="https://discord.com/users/domingos0076" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/domingos-muratori-neto-9487ab19b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:domingosmuratori@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://substack.com/@domingosmuratorineto" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-</div>
+## 🗂️ Projetos em destaque
 
-###
+### 🍃 Landing Page — Cafeteria
+> Interface de landing page para uma cafeteria, com estrutura semântica, layout responsivo e design cuidadoso.
+
+- **Tecnologias:** HTML5, CSS3
+- **Repositório:** [Landing-Page-Cafeteria](https://github.com/DomingosMt/Landing-Page-Cafeteria)
+
+---
+
+### 📋 To-Do List — HTML, CSS e JavaScript
+> Aplicação de lista de tarefas com funcionalidades de adicionar, marcar como concluída e remover itens, desenvolvida com JavaScript puro.
+
+- **Tecnologias:** HTML5, CSS3, JavaScript
+- **Repositório:** [To-Do-List-com-HTML-CSS-e-JavaScript](https://github.com/DomingosMt/To-Do-List-com-HTML-CSS-e-JavaScript)
+
+---
+
+### 🏠 Projeto Web — Imóveis
+> Recriação de site imobiliário para fins de estudo, focada em estruturação semântica e estilização responsiva.
+
+- **Tecnologias:** HTML5, CSS3
+- **Repositório:** [projeto_web_imoveis](https://github.com/DomingosMt/projeto_web_imoveis)
+
+---
+
+### 🧮 Calculadora IMC
+> Calculadora de Índice de Massa Corporal com interface limpa e lógica implementada em JavaScript.
+
+- **Tecnologias:** HTML5, CSS3, JavaScript
+- **Repositório:** [Calculadora_IMC](https://github.com/DomingosMt/Calculadora_IMC)
+
+---
+
+### 🌐 Portfólio — Landing Page
+> Landing page de portfólio pessoal com design estruturado para apresentar projetos e habilidades profissionais.
+
+- **Tecnologias:** HTML5, CSS3
+- **Repositório:** [Landing-Page-Portifolio](https://github.com/DomingosMt/Landing-Page-Portifolio)
+
+---
+
+### 🔗 Linktree Pessoal
+> Página simples de links pessoais construída com HTML5 e CSS3, servindo como hub de contatos e redes sociais.
+
+- **Tecnologias:** HTML5, CSS3
+- **Repositório:** [Linktree](https://github.com/DomingosMt/Linktree)
+
+---
+
+## 🛠️ Tech Stack
+
+| Tecnologia | Descrição |
+|---|---|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Estruturação semântica de páginas web |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Estilização, layouts com Flexbox e Grid |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Lógica de interação e manipulação do DOM |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | Framework utility-first para estilização rápida |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Controle de versão e histórico de alterações |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Hospedagem de repositórios e colaboração |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | Prototipagem e design de interfaces |
+
+---
+
+<sub>✨ Em constante aprendizado — cada projeto é um passo a mais na jornada.</sub>
