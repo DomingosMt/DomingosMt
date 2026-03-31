@@ -1,41 +1,68 @@
-<h2 align="center">Oi, tudo bem👋?! <br><br>Me chamo Domingos, sou um estudante de desenvolvimento Web júnior da cidade de Fortaleza/CE.</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DomingosMt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DomingosMt&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+
+# Domingos Muratori Neto
+
+Desenvolvedor Web Junior · Fortaleza, CE 🇧🇷
+
+Estudante de front-end na **Digital College** (Formação Full Stack), construindo interfaces funcionais e responsivas.
+
+[📧 E-mail](mailto:domingosmuratori@outlook.com) · [💼 LinkedIn](https://www.linkedin.com/in/domingos-muratori-neto-9487ab19b) · [💬 Discord](https://discord.com/users/domingos0076)
+
+---
+
+## 🗂️ Projetos
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>☕ <a href="https://github.com/DomingosMt/Landing-Page-Cafeteria">Landing Page Cafeteria</a></strong><br>
+      Landing page responsiva para cafeteria.<br><br>
+      <code>HTML5</code> <code>CSS3</code>
+    </td>
+    <td align="center" width="33%">
+      <strong>📋 <a href="https://github.com/DomingosMt/To-Do-List-com-HTML-CSS-e-JavaScript">To-Do List</a></strong><br>
+      Lista de tarefas com JavaScript puro.<br><br>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
+    </td>
+    <td align="center" width="33%">
+      <strong>🏠 <a href="https://github.com/DomingosMt/projeto_web_imoveis">Projeto Web Imóveis</a></strong><br>
+      Recriação de site imobiliário para estudo.<br><br>
+      <code>HTML5</code> <code>CSS3</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>🧮 <a href="https://github.com/DomingosMt/Calculadora_IMC">Calculadora IMC</a></strong><br>
+      Calculadora de IMC com interface limpa.<br><br>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
+    </td>
+    <td align="center" width="33%">
+      <strong>🌐 <a href="https://github.com/DomingosMt/Landing-Page-Portifolio">Portfólio</a></strong><br>
+      Landing page de portfólio pessoal.<br><br>
+      <code>HTML5</code> <code>CSS3</code>
+    </td>
+    <td align="center" width="33%">
+      <strong>🔗 <a href="https://github.com/DomingosMt/Linktree">Linktree</a></strong><br>
+      Hub de links pessoais e redes sociais.<br><br>
+      <code>HTML5</code> <code>CSS3</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+<sub>✨ Em constante aprendizado.</sub>
+
 </div>
-
-###
-
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZyMzJ3bHlvaWJtZmszOXM1dnF3d2V4emp4cGxrOTE4cjI2ZHgydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://discord.com/users/domingos0076" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/domingos-muratori-neto-9487ab19b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:domingosmuratori@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://substack.com/@domingosmuratorineto" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
