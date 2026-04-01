@@ -4,7 +4,7 @@
 
 Desenvolvedor Web Junior · Fortaleza, CE 🇧🇷
 
-Estudante de front-end na **Digital College** (Formação Full Stack), construindo interfaces funcionais e responsivas.
+Desenvolvedor e eterno estudante FullStack, com o objetivo de construir interfaces e sistemas funcionais e responsivos.
 
 [📧 E-mail](mailto:domingosmuratori@outlook.com) · [💼 LinkedIn](https://www.linkedin.com/in/domingos-muratori-neto-9487ab19b) · [💬 Discord](https://discord.com/users/domingos0076)
 
