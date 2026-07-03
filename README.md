@@ -10,6 +10,17 @@ Desenvolvedor e eterno estudante FullStack, com o objetivo de construir interfac
 
 ---
 
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/DomingosMt/DomingosMt/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=pt-br&hide_border=false&custom_title=Meu%20Status" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/DomingosMt/DomingosMt/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+---
+
 ## 🗂️ Projetos
 
 <table>
@@ -25,9 +36,9 @@ Desenvolvedor e eterno estudante FullStack, com o objetivo de construir interfac
       <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
     </td>
     <td align="center" width="33%">
-      <strong>🏠 <a href="https://github.com/DomingosMt/projeto_web_imoveis">Projeto Web Imóveis</a></strong><br>
-      Recriação de site imobiliário para estudo.<br><br>
-      <code>HTML5</code> <code>CSS3</code>
+      <strong>🏠 <a href="https://github.com/DomingosMt/projectReadBooks">Projeto ReadBooks</a></strong><br>
+      Projeto de rede social para amantes de livros. (Em andamento)<br><br>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
     </td>
   </tr>
   <tr>
@@ -37,14 +48,14 @@ Desenvolvedor e eterno estudante FullStack, com o objetivo de construir interfac
       <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
     </td>
     <td align="center" width="33%">
-      <strong>🌐 <a href="https://github.com/DomingosMt/Landing-Page-Portifolio">Portfólio</a></strong><br>
-      Landing page de portfólio pessoal.<br><br>
-      <code>HTML5</code> <code>CSS3</code>
+      <strong>☁️ <a href="https://github.com/DomingosMt/projetoClima">API Clima</a></strong><br>
+      API para consultas metereológicas.<br><br>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
     </td>
     <td align="center" width="33%">
-      <strong>🔗 <a href="https://github.com/DomingosMt/Linktree">Linktree</a></strong><br>
-      Hub de links pessoais e redes sociais.<br><br>
-      <code>HTML5</code> <code>CSS3</code>
+      <strong>🔗 <a href="https://github.com/DomingosMt/projectReadBooks">API Buscador de CEP</a></strong><br>
+      API para consultas de CEP.<br><br>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
     </td>
   </tr>
 </table>
