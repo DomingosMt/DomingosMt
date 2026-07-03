@@ -12,10 +12,8 @@ Desenvolvedor e eterno estudante FullStack, com o objetivo de construir interfac
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/DomingosMt/DomingosMt/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=pt-br&hide_border=false&custom_title=Meu%20Status" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/DomingosMt/DomingosMt/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DomingosMt&custom_title=Meu%20Status&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=DomingosMt&custom_title=Meu%20Status&show_icons=true&include_all_commits=true&theme=highcontrast)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DomingosMt&langs_count=4&hide_values=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=DomingosMt&langs_count=4&hide_values=true&theme=highcontrast)
 
 ###
 
